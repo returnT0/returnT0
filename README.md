@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc2eWVweDJheWpsczluNWRoejBoN2Jka2w3d3FvcTkwaWZjcW44YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/00CAE3GU0AsW6Cut0O/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h0MDVoNmI3ZWJuOXN1ZmljYXB2bGZqcjMzaDZzdWgyZGNsa3JtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Yz7ukxWxYCdcI2E1G/giphy.gif" width="500"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/vladislav-volkov-returnt0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
